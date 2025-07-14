@@ -1,21 +1,26 @@
-# Simple Weather App (WeatherAPI)
+# 🌦️ Weather App
 
-A simple weather app built with HTML, CSS, and JavaScript using the [WeatherAPI.com](https://www.weatherapi.com/) service.
+A simple and clean weather app that fetches current weather data for any city using the **WeatherAPI**.
+
+## 🚀 Live Demo
+
+[Click here to view the live site](https://asiyasabiu25.github.io/Weather-App/)
 
 ## 📌 Features
-- Get current weather for any city worldwide.
-- Displays temperature, humidity, wind speed, and weather description.
-- Background image updates to match the searched city using Unsplash.
 
-## 📌 How to Use
-1. Replace `YOUR_API_KEY_HERE` in `script.js` with your actual WeatherAPI.com key.
-2. Open `index.html` in your browser.
-3. Type a city into the search box and click "Search" or press Enter.
-4. Weather details will appear, and the background image will update.
+- 🔍 Search weather by city name
+- 🌡️ Display temperature, humidity, wind speed, and weather description
+- 📷 Dynamic background image based on city
+- 🖥️ Responsive and mobile-friendly design
 
-## 📌 Deployment
-You can deploy it easily using [Netlify Drop](https://app.netlify.com/drop).
+## 🛠️ Technologies Used
 
-## 📌 Credits
-- [WeatherAPI.com](https://www.weatherapi.com/) for weather data.
-- [Unsplash](https://unsplash.com/) for background images.
+- HTML5
+- CSS3
+- JavaScript (Fetch API)
+- [WeatherAPI.com](https://www.weatherapi.com/)
+- Unsplash for background images
+
+## 📦 Setup Instructions
+
+1. Clone the repository:
